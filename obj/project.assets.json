@@ -12150,11 +12150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github_Example\\MyLibrary\\MyLibrary.csproj",
+      "projectUniqueName": "E:\\Github_Example\\MyLibrary\\MyLibrary\\MyLibrary.csproj",
       "projectName": "MyLibrary",
-      "projectPath": "E:\\Github_Example\\MyLibrary\\MyLibrary.csproj",
+      "projectPath": "E:\\Github_Example\\MyLibrary\\MyLibrary\\MyLibrary.csproj",
       "packagesPath": "C:\\Users\\spark\\.nuget\\packages\\",
-      "outputPath": "E:\\Github_Example\\MyLibrary\\obj\\",
+      "outputPath": "E:\\Github_Example\\MyLibrary\\MyLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
