@@ -1,5 +1,5 @@
 ﻿This is part of library management system.
-Developed  by Kir t Shah
+Developed  by Kirit Shah
 email:- kiritshah234@gmail.com
 
 ASP.NETCore 2.2

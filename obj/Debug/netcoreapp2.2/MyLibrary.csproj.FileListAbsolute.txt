@@ -66,3 +66,4 @@ E:\Github_Example\MyLibrary\MyLibrary\obj\Debug\netcoreapp2.2\Razor\Views\Book\D
 E:\Github_Example\MyLibrary\MyLibrary\obj\Debug\netcoreapp2.2\Razor\Views\Book\Details.cshtml.g.cs
 E:\Github_Example\MyLibrary\MyLibrary\obj\Debug\netcoreapp2.2\Razor\Views\Book\Edit.cshtml.g.cs
 E:\Github_Example\MyLibrary\MyLibrary\obj\Debug\netcoreapp2.2\Razor\Views\Book\Index.cshtml.g.cs
+E:\Github_Example\MyLibrary\MyLibrary\obj\Debug\netcoreapp2.2\MyLibrary.csprojAssemblyReference.cache
